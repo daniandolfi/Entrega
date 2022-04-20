@@ -1,5 +1,5 @@
 # Entrega
-Entreda TyH 1
+Entrega TyH 1
 <html>
   <h1> TyH MFLD </h1>
   <ul>
@@ -8,6 +8,6 @@ Entreda TyH 1
     <li> Báscolo, M. Felicitas </li>
     <li> Herrera, Lisandro </li>
   </ul>
-  <a>https://github.com/daniandolfi/TP1_2022</a>
+  <a href="https://github.com/daniandolfi/TP1_2022"> Módulo 1 </a>
   </html>
   
