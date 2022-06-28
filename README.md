@@ -8,6 +8,9 @@
 
 <a href="https://github.com/daniandolfi/Modulo3"> Módulo 3 </a> 
 <html>
+
+<a href="https://github.com/daniandolfi/SeminarioGuerraUcrania"> Seminario: "Nuevos Conflictos en el Siglo XXI: la guerra de Rusia - Ucrania y el rol de China" </a> 
+<html>
   
   <h1> Grupo MFLD </h1>
   <ul>
